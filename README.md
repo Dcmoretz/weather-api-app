@@ -6,3 +6,4 @@ This is a wether API application that uses two third party APIs to call informat
 
 ![alt text](./assets/images/06-server-side-apis-homework-demo%20(1).png)
 
+Thanks for the help from my UNC Bootcamp classmates
